@@ -2,3 +2,6 @@ Branch2 is created
 
 
 Branch2 already exist so pushed file in the existing branch2
+
+
+After creating file in branch2. changes are made here
